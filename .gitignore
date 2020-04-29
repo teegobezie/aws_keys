@@ -1,0 +1,7 @@
+*.pem
+*.txt
+*.pub
+*.tfstate
+*.json
+*.exe
+
